@@ -1,4 +1,20 @@
-jquery-shuffle-letters-plugin
+JQuery Shuffle Letters Plugin
 =============================
 
-Shuffle Letters Effect: a jQuery Plugin
+A [JQuery][jq] plugin that shuffles the text content of an element, created by [Martin Angelov][ma]. The article that describes the creation of the plugin and a beautiful demo can be found at [tutorialzine.com][demo].
+
+License
+-------
+
+[http://en.wikipedia.org/wiki/MIT_License](MIT License)
+
+
+Note
+----
+
+A google search failed to find the plugin on Github and I have placed it here as I want to slightly modify its behaviour.
+
+
+[jq]: http://jquery.com
+[demo]: http://tutorialzine.com/2011/09/shuffle-letters-effect-jquery/
+[ma]: http://martinangelov.com/
