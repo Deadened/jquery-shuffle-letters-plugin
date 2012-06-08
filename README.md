@@ -8,13 +8,20 @@ License
 
 [http://en.wikipedia.org/wiki/MIT_License](MIT License)
 
-
 Note
 ----
 
-A google search failed to find the plugin on Github and I have placed it here as I want to slightly modify its behaviour.
+A Google search failed to find the plugin on Github and I have placed it here as I want to slightly modify its behaviour.
+
+Build
+-----
+
+Minify with [JSMin][jsmin]:
+
+    jsmin <jquery.shuffleLetters.js > jquery.shuffleLetters.min.js
 
 
 [jq]: http://jquery.com
 [demo]: http://tutorialzine.com/2011/09/shuffle-letters-effect-jquery/
 [ma]: http://martinangelov.com/
+[jsmin]: https://github.com/douglascrockford/JSMin
